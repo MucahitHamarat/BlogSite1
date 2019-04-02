@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hielo", "Hielo\Hielo.csproj", "{C2329ABC-26C1-4203-BB6B-F87061EC22BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2329ABC-26C1-4203-BB6B-F87061EC22BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2329ABC-26C1-4203-BB6B-F87061EC22BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2329ABC-26C1-4203-BB6B-F87061EC22BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2329ABC-26C1-4203-BB6B-F87061EC22BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC1D834-CD2F-48D5-B34C-38AA5F395D46}
+	EndGlobalSection
+EndGlobal
